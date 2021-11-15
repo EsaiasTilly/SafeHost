@@ -1,0 +1,23 @@
+{
+  "name": "safehost",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsaiasTilly/SafeHost.git"
+  },
+  "author": "Esaias Tilly <esaias@tillys.se>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsaiasTilly/SafeHost/issues"
+  },
+  "homepage": "https://github.com/EsaiasTilly/SafeHost#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
